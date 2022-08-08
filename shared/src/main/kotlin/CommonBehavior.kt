@@ -1,0 +1,3 @@
+interface CommonBehavior {
+    fun run()
+}
